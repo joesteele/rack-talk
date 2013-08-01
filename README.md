@@ -1,6 +1,6 @@
-# Tampa Ruby Brigade Meetup Rack Talk [meetup link](http://www.meetup.com/tampa-rb/events/125327762/)
+# Tampa Ruby Brigade Meetup Rack Talk
 
-These are the slides for the talk I gave on July 18, 2013 at the Tampa Ruby Brigade meetup group. The actual slides are in the [slides](https://github.com/joesteele/rack-talk/tree/master/slides) directory. The slides are powered by the HTML presentation framework [reveal.js](https://github.com/joesteele/rack-talk/tree/master/slides) with a custom theme used.
+These are the slides for the talk I gave on [July 18, 2013](http://www.meetup.com/tampa-rb/events/125327762/) at the [Tampa Ruby Brigade meetup group](http://www.meetup.com/tampa-rb). The actual slides are in the [slides](https://github.com/joesteele/rack-talk/tree/master/slides) directory. The slides are powered by the HTML presentation framework [reveal.js](https://github.com/joesteele/rack-talk/tree/master/slides) with a custom theme used.
 
 ## Viewing the slides
 ```
